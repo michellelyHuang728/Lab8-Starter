@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8-Starter",
+    "short_name": "Michelle Huang",
+    "description": "recipe-card",
+    "start_url": "./",
+    "display": "fullscreen",
+    "background_color": "white",
+    "theme_color": "green",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
